@@ -24,7 +24,7 @@
 ### Установка
 
 #### 1. Установите необходимый мод
-Перевод работает через мод **PANECustomLocalization**, который входит в состав пакета:  (**Bug Fixes and Enhancements Package**)|[https://www.nexusmods.com/pharaohanewera/mods/16]
+Перевод работает через мод **PANECustomLocalization**, который входит в состав пакета:  **Bug Fixes and Enhancements Package** https://www.nexusmods.com/pharaohanewera/mods/16
 - Установите **Bug Fixes and Enhancements Package** целиком, либо
 - Установите отдельно модуль **PANECustomLocalization** из состава пакета.
 
@@ -40,7 +40,7 @@
 в папку ремейка:
 ```<папка ремейка>\ModResources\Localizations\ru\voice```
 
-**Важно:** Тексты перевода в данном русификаторе и тексты, использованные в популярной пиратской русскоязычной версии классической игры, **не совпадают дословно**. Перевод выполнен заново на основе оригинальных английских текстов, поэтому возможны расхождения в формулировках. Голосовое озвучивание будет воспроизводиться в соответствии с аудиофайлами из оригинальной игры, даже если текст на экране отличается от того, что произносится голосом.
+**Важно:** Тексты перевода в данном русификаторе и тексты, использованные в популярной русскоязычной версии классической игры, **не совпадают дословно**. Перевод выполнен заново на основе оригинальных английских текстов, поэтому возможны расхождения в формулировках. Голосовое озвучивание будет воспроизводиться в соответствии с аудиофайлами из оригинальной игры, даже если текст на экране отличается от того, что произносится голосом.
 
 #### 4. Активация в игре
 Запустите игру, откройте **настройки** и выберите язык **"Русский"**.
@@ -60,6 +60,30 @@
 **Вопрос:** Почему текст на экране не совпадает с голосом из классической игры?  
 **Ответ:** Как указано выше, перевод был выполнен заново и не является дословной копией перевода из классической версии. Это нормально — голосовые файлы остались те же, а за основу перевода были взяты тесты из ремейка.
 
+## Благодарности
+
+Особая благодарность **winterheart** за проделанную работу и открытый доступ к переводу.  
+Без его трудов этот русификатор не был бы возможен.
+
+Также благодарность авторам **Bug Fixes and Enhancements Package** за отличные моды, действительно улучшающие игровой опыт.  
+
+## Лицензия
+
+Этот проект распространяется под лицензией **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+Вы можете свободно:
+- Делиться — копировать и распространять материал на любом носителе и в любом формате.
+- Адаптировать — делать ремиксы, видоизменять и создавать новое, опираясь на этот материал для любых целей, включая коммерческие.
+
+При обязательном условии:
+- **Указание авторства** — вы должны предоставить соответствующее указание авторства, предоставить ссылку на лицензию и обозначить изменения, если они были сделаны. Вы можете делать это любым разумным способом, но не таким, который создаёт впечатление, что лицензиар одобряет вас или ваше использование.
+
+Подробнее: https://creativecommons.org/licenses/by/4.0/deed.ru
+
+## Вклад
+
+Если вы нашли ошибку или хотите предложить улучшение — создайте **Issue** или **Pull Request**.  
+
 
 ## English
 
@@ -70,7 +94,7 @@ This project is an **unofficial Russian localization mod** for **Pharaoh: A New 
 The mod provides a full Russian translation of the interface, dialogues, campaigns, tooltips, and all in-game texts.  
 Additionally, mods from the popular mod pack are also translated.
 
-The translation is based on сommunity contributions, especially the work of **winterheart**, available at: [https://github.com/winterheart/pharaoh-l10n], additionally texts generated and refined using **AI**.
+The translation is based on сommunity contributions, especially the work of **winterheart**, available at: https://github.com/winterheart/pharaoh-l10n, additionally texts generated and refined using **AI**.
 
 ### Contents
 
@@ -82,7 +106,7 @@ The translation is based on сommunity contributions, especially the work of **w
 ### Installation
 
 #### 1. Install the required mod
-The translation works through the **PANECustomLocalization** mod, which is included in the package: **PANECustomLocalization** [https://www.nexusmods.com/pharaohanewera/mods/16]
+The translation works through the **PANECustomLocalization** mod, which is included in the package: **PANECustomLocalization** https://www.nexusmods.com/pharaohanewera/mods/16
 - Install the full **Bug Fixes and Enhancements Package**, or
 - Install the **PANECustomLocalization** module separately from the package.
 
@@ -99,7 +123,7 @@ Copy the contents of the folder:
 to the remake's folder:
 ```<remake folder>\ModResources\Localizations\ru\voice```
 
-**Important:** The translated texts in this localization mod and the texts used in the popular Russian pirated version of the classic game **do not match verbatim**. The translation has been redone from scratch based on the original English texts, so there may be discrepancies in wording. Voice-over audio will play according to the audio files from the original game, even if the on-screen text differs from what is being spoken.
+**Important:** The translated texts in this localization mod and the texts used in the popular Russian version of the classic game **do not match verbatim**. The translation has been redone from scratch based on the original English texts, so there may be discrepancies in wording. Voice-over audio will play according to the audio files from the original game, even if the on-screen text differs from what is being spoken.
 
 #### 4. Activate in-game
 Launch the game, open **Settings**, and select **"Русский"** (Russian) as your language.
@@ -118,31 +142,15 @@ Launch the game, open **Settings**, and select **"Русский"** (Russian) as
 **A:** As mentioned above, the translation was redone and is not a verbatim copy of the translation from the classic version. This is normal — the voice files remain the same, while the texts have been updated for greater accuracy and better alignment with the remake.
 
 
-## Благодарности / Credits
-
-Особая благодарность **winterheart** за проделанную работу и открытый доступ к переводу.  
-Без его трудов этот русификатор не был бы возможен.
+## Credits
 
 Special thanks to **winterheart** for their excellent work and for making their translation publicly available.  
 This localization wouldn't exist without their efforts.
 
-Также благодарность авторам **Bug Fixes and Enhancements Package** за отличные моды.  
-Also thanks to the authors of the **Bug Fixes and Enhancements Package** for their great mods.
+Also, thanks to the authors of the **Bug Fixes and Enhancements Package** for their great mods which are truly improve gaming expitience.
 
 
-## Лицензия / License
-
-Этот проект распространяется под лицензией **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
-
-Вы можете свободно:
-- Делиться — копировать и распространять материал на любом носителе и в любом формате.
-- Адаптировать — делать ремиксы, видоизменять и создавать новое, опираясь на этот материал для любых целей, включая коммерческие.
-
-При обязательном условии:
-- **Указание авторства** — вы должны предоставить соответствующее указание авторства, предоставить ссылку на лицензию и обозначить изменения, если они были сделаны. Вы можете делать это любым разумным способом, но не таким, который создаёт впечатление, что лицензиар одобряет вас или ваше использование.
-
-Подробнее: https://creativecommons.org/licenses/by/4.0/deed.ru
-
+## License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
@@ -156,7 +164,6 @@ Under the following terms:
 Learn more: https://creativecommons.org/licenses/by/4.0/
 
 
-## Вклад / Contributing
+## Contributing
 
-Если вы нашли ошибку или хотите предложить улучшение — создайте **Issue** или **Pull Request**.  
 If you find a bug or want to suggest an improvement — feel free to open an **Issue** or **Pull Request**.
