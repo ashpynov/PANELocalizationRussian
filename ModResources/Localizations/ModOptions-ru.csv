@@ -1,0 +1,209 @@
+Key,Type,Desc,Ru
+ModOptions/#AlwaysShowPopulationUnemployment,Text,,Расширенная верхняя панель
+ModOptions/#AlwaysShowPopulationUnemployment_tooltip_on,Text,,"Показывает на верхней панели дополнительную информацию (сведения о жилье, безработице или нехватке рабочих, рейтингах и т. д.)."
+ModOptions/#AlwaysShowPopulationUnemployment_tooltip_off,Text,,Стандартная верхняя панель без дополнительной информации.
+ModOptions/#EnableGoodGroupNamesFlavor,Text,,Названия групп товаров
+ModOptions/#EnableGoodGroupNamesFlavor_tooltip_on,Text,,"Показывает тематические уточнения для групп товаров, например <color=white><b>рулоны льна</b></color>."
+ModOptions/#EnableGoodGroupNamesFlavor_tooltip_off,Text,,Показывает группы товаров в обычной форме множественного числа.
+ModOptions/#ListAllHouseGoods,Text,,Перечислять все товары в домах
+ModOptions/#ListAllHouseGoods_tooltip_on,Text,,"Показывает все доступные в миссии товары, которые дом может хранить или уже хранит."
+ModOptions/#ListAllHouseGoods_tooltip_off,Text,,"Показывает только товары, которые уже хранятся в доме."
+ModOptions/#AlwaysAllowBuildingRotation,Text,,Всегда разрешать поворот зданий
+ModOptions/#AlwaysAllowBuildingRotation_tooltip_on,Text,,"Позволяет менять ориентацию и вариант некоторых зданий после их размещения.
+Для этого щёлкните по зданию <color=white><b>средней кнопкой мыши, удерживая левый Shift</b></color>.
+Функция работает с большинством квадратных зданий, поддерживающих разные ориентации и варианты (включая дома и украшения).
+Исключения: монументы, фермы, постройки у воды (причалы, доки, верфи и водоподъёмники), каменоломни и некоторые другие здания."
+ModOptions/#AlwaysAllowBuildingRotation_tooltip_off,Text,,Стандартное поведение: здания нельзя поворачивать после размещения.
+ModOptions/#FlatModeKeyModifier,Text,,Клавиша-модификатор плоского режима
+ModOptions/#ChariotCopperCost,Text,,Расход меди на колесницу
+ModOptions/#ChariotCopperCost_tooltip,Text,,"Укажите количество меди, расходуемой на создание колесницы в мастерской колесниц
+(от <color=white><b>1</b></color> до <color=white><b>100</b></color> единиц меди)."
+ModOptions/#RequireFullyStaffedAcademy,Text,,Требовать полного штата академии
+ModOptions/#RequireFullyStaffedAcademy_tooltip_on,Text,,Военная академия улучшает воинов только при полном штате сотрудников.
+ModOptions/#RequireFullyStaffedAcademy_tooltip_off,Text,,Военная академия может улучшать воинов даже при неполном штате сотрудников.
+ModOptions/#CityScreenshotScale,Text,,Масштаб снимка города
+ModOptions/#CityScreenshotScale_tooltip,Text,,Укажите множитель сверхвысокого разрешения для снимков всего города.
+ModOptions/#CustomFontFileName,Text,,Шрифт игры
+ModOptions/#UseClassicalNames,Text,,Классические названия городов
+ModOptions/#UseClassicalNames_tooltip_on,Text,,"Показывает классические названия городов, если выбранный язык их поддерживает."
+ModOptions/#UseClassicalNames_tooltip_off,Text,,Показывает стандартные египетские названия городов.
+ModOptions/#EmulateVeryHardDifficulty,Text,,Имитировать очень высокую сложность
+ModOptions/#EmulateVeryHardDifficulty_tooltip_on,Text,,"Имитирует уровень сложности <color=white><b>Очень высокий</b></color> из оригинальной игры.
+Чтобы настройка действовала, выберите сложность <color=white><b>Высокая</b></color> в параметрах игрового процесса."
+ModOptions/#EmulateVeryHardDifficulty_tooltip_off,Text,,"Использует уровень сложности, выбранный в параметрах игрового процесса."
+ModOptions/#OriginalCampaignProgression,Text,,Оригинальное прохождение кампании
+ModOptions/#OriginalCampaignProgression_tooltip_on,Text,,"Делает прохождение кампании похожим на оригинальную игру.
+После завершения любой миссии кампании или загрузки сохранения завершённой миссии переход дальше всегда открывает следующий набор миссий на выбор, а не следующую незавершённую миссию.
+Это позволяет повторно проходить развилки прямо в режиме кампании, не пользуясь экраном выбора миссий.
+Семейные сбережения корректно переносятся из сохранения, использованного для перехода к следующей миссии, кроме случаев, когда перенос запрещён (например, в первой миссии периода)."
+ModOptions/#OriginalCampaignProgression_tooltip_off,Text,,Стандартное прохождение кампании в Pharaoh: A New Era.
+ModOptions/#PyramidSpeedup,Text,,Ускорение пирамид и мастаб
+ModOptions/#PyramidSpeedup_tooltip_on,Text,,"Возвращает ускоренное строительство пирамид и мастаб из оригинальной игры.
+Когда любой бог дарует благословение, с вероятностью около <color=white><b>50%</b></color> мгновенно завершается несколько этапов строительства пирамиды или мастабы.
+Количество этапов зависит от благословения: <color=white><b>2</b></color>–<color=white><b>3</b></color> для малого и <color=white><b>4</b></color>–<color=white><b>6</b></color> для великого."
+ModOptions/#PyramidSpeedup_tooltip_off,Text,,Стандартное поведение без автоматического завершения этапов строительства пирамид и мастаб.
+ModOptions/#EnableFriendlyPredators,Text,,Дружелюбные хищники
+ModOptions/#EnableFriendlyPredators_tooltip_on,Text,,Хищники не нападают на ваших жителей.
+ModOptions/#EnableFriendlyPredators_tooltip_off,Text,,Хищники нападают на ваших жителей (стандартное поведение).
+ModOptions/#EnableInfiniteAutoSaves,Text,,Неограниченные автосохранения
+ModOptions/#EnableInfiniteAutoSaves_tooltip_on,Text,,"Разрешает неограниченное число автосохранений, если они включены в параметрах игрового процесса."
+ModOptions/#EnableInfiniteAutoSaves_tooltip_off,Text,,"Использует стандартное ограниченное число автосохранений, если они включены в параметрах игрового процесса."
+ModOptions/#EnableMapTimers,Text,,Таймеры миссий
+ModOptions/#EnableMapTimers_tooltip_on,Text,,Возвращает таймеры из оригинальной игры в некоторые миссии кампании «Клеопатра».
+ModOptions/#EnableMapTimers_tooltip_off,Text,,Стандартное поведение без таймеров в миссиях.
+ModOptions/#EnableOffRoadMonumentConstruction,Text,,Строительство монументов без дорог
+ModOptions/#EnableOffRoadMonumentConstruction_tooltip_on,Text,,Позволяет строителям монументов и работникам гильдий добираться до монумента без дороги.
+ModOptions/#EnableOffRoadMonumentConstruction_tooltip_off,Text,,"Стандартное поведение: чтобы добраться до монумента, необходима дорога."
+ModOptions/#EnableOffRoadWorkCampToStorage,Text,,Путь из рабочего лагеря на склад без дорог
+ModOptions/#EnableOffRoadWorkCampToStorage_tooltip_on,Text,,Позволяет строителям монументов из рабочих лагерей добираться до складов без дороги.
+ModOptions/#EnableOffRoadWorkCampToStorage_tooltip_off,Text,,"Стандартное поведение: чтобы добраться до склада, необходима дорога."
+ModOptions/#EnableCampaignIncarnationsFlavor,Text,,Поколения семьи в кампании
+ModOptions/#EnableCampaignIncarnationsFlavor_tooltip_on,Text,,"Добавляет к фамилии вашей семьи в миссиях кампании римскую цифру, обозначающую поколение, как в оригинальной игре.
+Например, <color=white><b>Птахшепсес III</b></color> в третьей миссии кампании.
+Обозначение появляется главным образом в обращённых к игроку уведомлениях и в разделе политического советника."
+ModOptions/#EnableCampaignIncarnationsFlavor_tooltip_off,Text,,Стандартное поведение без обозначения поколения.
+ModOptions/#AutoRebuildScriptedBuildingCollapse,Text,,Автовосстановление после сюжетных разрушений
+ModOptions/#AutoRebuildScriptedBuildingCollapse_tooltip_on,Text,,"Автоматически восстанавливает здания, разрушенные сюжетными событиями.
+Стоимость расчистки и строительства списывается автоматически, а прогресс производства обнуляется."
+ModOptions/#AutoRebuildScriptedBuildingCollapse_tooltip_off,Text,,"Стандартное поведение: здания, разрушенные сюжетными событиями, автоматически не восстанавливаются."
+ModOptions/#UseOriginalRequestLatenessRules,Text,,Оригинальные правила просрочки запросов
+ModOptions/#UseOriginalRequestLatenessRules_tooltip_on,Text,,"Использует правила сроков из оригинальной игры.
+
+После истечения первоначального срока запроса товаров вы всегда получаете ещё <color=white><b>24</b></color> месяца на выполнение.
+
+После истечения первоначального срока запроса войск продления не будет."
+ModOptions/#UseOriginalRequestLatenessRules_tooltip_off,Text,,"Использует стандартные правила просрочки из Pharaoh: A New Era.
+После истечения первоначального срока запроса товаров или войск вы получаете на выполнение ещё столько же времени, сколько было дано изначально."
+ModOptions/#EnableTombRobbers,Text,,Грабители гробниц
+ModOptions/#EnableTombRobbers_tooltip_on,Text,,Возвращает грабителей гробниц из оригинальной игры.
+ModOptions/#EnableTombRobbers_tooltip_off,Text,,Стандартное поведение без грабителей гробниц.
+ModOptions/#SethBlessingAlwaysWinsFarOffBattles,Text,,Оригинальное малое благословение Сета
+ModOptions/#SethBlessingAlwaysWinsFarOffBattles_tooltip_on,Text,,При действующем малом благословении Сета битвы по запросам войск всегда заканчиваются победой без потерь.
+ModOptions/#SethBlessingAlwaysWinsFarOffBattles_tooltip_off,Text,,"При действующем малом благословении Сета ваши войска лишь избегают потерь.
+Победа по-прежнему зависит от соотношения сил отправленных войск и противника."
+ModOptions/#UseOriginalCoverageValues,Text,,Оригинальные значения охвата
+ModOptions/#UseOriginalCoverageValues_tooltip_on,Text,,"Использует значения охвата зданий из оригинальной игры.
+Охват одного здания:
+Площадка жонглёров: <color=white><b>400</b></color> человек
+Площадка музыкантов: <color=white><b>700</b></color> человек
+Площадка танцоров: <color=white><b>1,200</b></color> человек
+Дом сенета: <color=white><b>5,000</b></color> человек
+Зоопарк: <color=white><b>7,500</b></color> человек
+Школа: <color=white><b>300</b></color> человек
+Библиотека: <color=white><b>800</b></color> человек
+Святилище местного бога / покровителя: <color=white><b>300 / 150</b></color> человек
+Храм местного бога / покровителя: <color=white><b>750 / 375</b></color> человек
+Храмовый комплекс: <color=white><b>8,000</b></color> человек"
+ModOptions/#UseOriginalCoverageValues_tooltip_off,Text,,"Использует стандартные значения охвата зданий из Pharaoh: A New Era.
+Охват одного здания:
+Площадка жонглёров: <color=white><b>600</b></color> человек
+Площадка музыкантов: <color=white><b>1,000</b></color> человек
+Площадка танцоров: <color=white><b>1,800</b></color> человек
+Дом сенета: <color=white><b>7,500</b></color> человек
+Зоопарк: <color=white><b>10,000</b></color> человек
+Школа: <color=white><b>500</b></color> человек
+Библиотека: <color=white><b>1,200</b></color> человек
+Святилище местного бога / покровителя: <color=white><b>400 / 200</b></color> человек
+Храм местного бога / покровителя: <color=white><b>900 / 450</b></color> человек
+Храмовый комплекс: <color=white><b>10,000</b></color> человек"
+ModOptions/#EnforceWorkingBuildingsForCoverage,Text,,Только работающие здания учитываются в охвате
+ModOptions/#EnforceWorkingBuildingsForCoverage_tooltip_on,Text,,"Учебные и развлекательные здания учитываются в охвате и рейтинге культуры, только если работают полноценно.
+Помимо сотрудников, развлекательным зданиям нужны артисты, а учебным — папирус."
+ModOptions/#EnforceWorkingBuildingsForCoverage_tooltip_off,Text,,Для учёта в охвате и рейтинге культуры зданию достаточно иметь сотрудников.
+ModOptions/#UseOriginalImportExportOverseerEstimates,Text,,Оригинальные оценки советника
+ModOptions/#UseOriginalImportExportOverseerEstimates_tooltip_on,Text,,Использует правила оценки из оригинальной игры у торгового советника для режимов товаров <color=white><b>Импортировать по необходимости</b></color> и <color=white><b>Экспортировать излишки</b></color>.
+ModOptions/#UseOriginalImportExportOverseerEstimates_tooltip_off,Text,,Использует правила оценки торгового советника из Pharaoh: A New Era.
+ModOptions/#EnableTributeSystem,Text,,Система дани
+ModOptions/#EnableTributeSystem_tooltip_on,Text,,Возвращает систему дани из оригинальной игры.
+ModOptions/#EnableTributeSystem_tooltip_off,Text,,Стандартное поведение без системы дани.
+ModOptions/#EnableDebtConsequences,Text,,Последствия долгов
+ModOptions/#EnableDebtConsequences_tooltip_on,Text,,Возвращает последствия долгов из оригинальной игры.
+ModOptions/#EnableDebtConsequences_tooltip_off,Text,,Стандартное поведение без последствий долгов.
+ModOptions/#PolicemanCanKillPredator,Text,,Стражники могут убивать хищников
+ModOptions/#PolicemanCanKillPredator_tooltip_on,Text,,Позволяет стражникам убивать встреченных хищников.
+ModOptions/#PolicemanCanKillPredator_tooltip_off,Text,,Стандартное поведение: стражники не могут убивать хищников.
+ModOptions/#AmbientSoundCycleIntervalInSeconds,Text,,Интервал смены фоновых звуков
+ModOptions/#AmbientSoundCycleIntervalInSeconds_tooltip,Text,,Укажите интервал смены фоновых звуков в секундах.
+ModOptions/#BuildingSoundCycleIntervalInSeconds,Text,,Интервал смены звуков зданий
+ModOptions/#BuildingSoundCycleIntervalInSeconds_tooltip,Text,,Укажите интервал смены звуков зданий в секундах.
+ModOptions/#DisableZoomFactorForSounds,Text,,Не учитывать масштаб для звуков
+ModOptions/#DisableZoomFactorForSounds_tooltip_on,Text,,Отключает влияние масштаба камеры на фоновые звуки и звуки зданий.
+ModOptions/#DisableZoomFactorForSounds_tooltip_off,Text,,Сохраняет влияние масштаба камеры на фоновые звуки и звуки зданий.
+ModOptions/#UseOriginalStorageYardWalkerCount,Text,,Оригинальное число разносчиков склада
+ModOptions/#UseOriginalStorageYardWalkerCount_tooltip_on,Text,,"Использует число разносчиков склада из оригинальной игры
+(не более <color=white><b>1</b></color> доставщика и <color=white><b>2</b></color> сборщиков)."
+ModOptions/#UseOriginalStorageYardWalkerCount_tooltip_off,Text,,"Использует стандартное число разносчиков склада из Pharaoh: A New Era
+(не более <color=white><b>2</b></color> доставщиков и <color=white><b>4</b></color> сборщиков)."
+ModOptions/#PreventImportWhenBroke,Text,,Запретить импорт при банкротстве
+ModOptions/#PreventImportWhenBroke_tooltip_on,Text,,"Запрещает импорт товаров при банкротстве города
+(казна ниже <color=white><b>-5000</b></color> дебенов)."
+ModOptions/#PreventImportWhenBroke_tooltip_off,Text,,Стандартное поведение: импорт товаров разрешён независимо от долга города.
+ModOptions/#CopyStorageOrdersWithCloning,Text,,Копировать распоряжения при клонировании
+ModOptions/#CopyStorageOrdersWithCloning_tooltip_on,Text,,"Копирует складские и торговые распоряжения при клонировании зданий.
+Применяется к складам, амбарам, базарам и докам."
+ModOptions/#CopyStorageOrdersWithCloning_tooltip_off,Text,,Стандартное поведение: складские и торговые распоряжения при клонировании зданий не копируются.
+ModOptions/#WorldMapUncapitalizeCityName,Text,,Карта мира: обычный регистр названий городов
+ModOptions/#WorldMapUncapitalizeCityName_tooltip_on,Text,,Убирает принудительное написание названий городов прописными буквами на карте мира.
+ModOptions/#WorldMapUncapitalizeCityName_tooltip_off,Text,,Стандартное поведение: названия городов на карте мира всегда написаны прописными буквами.
+ModOptions/#WorldMapShowMonumentIcons,Text,,Карта мира: значки монументов
+ModOptions/#WorldMapShowMonumentIcons_tooltip_on,Text,,"Показывает на карте мира рядом с городами значки монументов в миссиях кампании.
+Показаны монументы, построенные в этом городе во время кампании."
+ModOptions/#WorldMapShowMonumentIcons_tooltip_off,Text,,Стандартное поведение: значки монументов на карте мира не показываются.
+ModOptions/#AllowLongBridges,Text,,Разрешить длинные мосты
+ModOptions/#AllowLongBridges_tooltip_on,Text,,Позволяет строить мосты длиной до <color=white><b>50</b></color> клеток.
+ModOptions/#AllowLongBridges_tooltip_off,Text,,Стандартная максимальная длина моста — <color=white><b>6</b></color> клеток.
+ModOptions/#EnableMoreSpeeds,Text,,Больше скоростей игры
+ModOptions/#EnableMoreSpeeds_tooltip_on,Text,,"Добавляет скорости игры 0.1x, 0.3x, 10x и 15x.
+Используйте с осторожностью: дополнительные скорости могут работать нестабильно на некоторых системах."
+ModOptions/#EnableMoreSpeeds_tooltip_off,Text,,Стандартный набор поддерживаемых скоростей.
+ModOptions/#AlwaysActiveWells,Text,,В колодцах всегда есть вода
+ModOptions/#AlwaysActiveWells_tooltip_on,Text,,"Всегда показывает воду в колодцах независимо от того, снабжают ли они дома.
+Это только визуальное изменение, не влияющее на работу колодцев."
+ModOptions/#AlwaysActiveWells_tooltip_off,Text,,"Стандартное поведение: вода показывается в колодце, только когда он снабжает дома."
+ModOptions/#ExtendedStorageTooltips,Text,,Расширенные подсказки зданий
+ModOptions/#ExtendedStorageTooltips_tooltip_on,Text,,"Показывает расширенные подсказки при наведении на некоторые здания: склады, торговые здания, форты и другие."
+ModOptions/#ExtendedStorageTooltips_tooltip_off,Text,,Не показывает расширенные подсказки.
+ModOptions/#ResetVictoryDataOnLoad,Text,,Сбрасывать статистику победы
+ModOptions/#ResetVictoryDataOnLoad_tooltip_on,Text,,Сбрасывает статистику победы после загрузки сохранённой игры.
+ModOptions/#ResetVictoryDataOnLoad_tooltip_off,Text,,Сохраняет статистику победы после загрузки сохранённой игры.
+ModOptions/#WageBasedWorkforcePercentage,Text,,Доля работников зависит от жалованья
+ModOptions/#WageBasedWorkforcePercentage_tooltip_on,Text,,"Если в параметрах игрового процесса включена настройка <color=white><b>Фиксированная доля работников</b></color>, доля рабочей силы зависит от жалованья.
+Она изменяется относительно жалованья, выплачиваемого царством:
+<color=white>+8</color> и выше: <color=white><b>45%</b></color>
+от <color=white>+5</color> до <color=white>+7</color>: <color=white><b>42%</b></color>
+от <color=white>0</color> до <color=white>+4</color>: <color=white><b>39%</b></color>
+от <color=yellow>-1</color> до <color=yellow>-3</color>: <color=white><b>36%</b></color>
+от <color=yellow>-4</color> до <color=yellow>-6</color>: <color=white><b>33%</b></color>
+<color=yellow>-7</color> и ниже: <color=white><b>30%</b></color>"
+ModOptions/#WageBasedWorkforcePercentage_tooltip_off,Text,,"Если включена настройка <color=white><b>Фиксированная доля работников</b></color>, доля рабочей силы неизменно составляет <color=white><b>40%</b></color> населения."
+ModOptions/#ChildrenPercentage,Text,,Доля детей
+ModOptions/#ChildrenPercentage_tooltip,Text,,"Устанавливает долю детей в населении, когда включены настройки <color=white><b>Фиксированная доля работников</b></color> и <color=white><b>Доля работников зависит от жалованья</b></color>."
+ModOptions/#ScreenScrollSpeed,Text,,Скорость прокрутки экрана
+ModOptions/#ScreenScrollSpeed_tooltip,Text,,Устанавливает скорость прокрутки экрана у края экрана или с помощью клавиатуры.
+ModOptions/#DisableStorageReservation,Text,,Оригинальное резервирование товаров
+ModOptions/#DisableStorageReservation_tooltip_on,Text,,"Использует улучшенную систему резервирования товаров, похожую на систему оригинальной игры.
+Она также предотвращает некоторые периодические ошибки, например застревание доставщиков, сборщиков тростника и лесорубов, возможное в текущей реализации."
+ModOptions/#DisableStorageReservation_tooltip_off,Text,,Стандартная система резервирования товаров из Pharaoh: A New Era.
+ModOptions/#HidesQuantityPerHuntMultiplier,Text,,Количество шкур за одну охоту
+ModOptions/#HidesQuantityPerHuntMultiplier_tooltip,Text,,"Устанавливает количество шкур, получаемых за одну охоту (от <color=white><b>10</b></color> до <color=white><b>100</b></color>)."
+ModOptions/#FixPyramidWorkerPositions,Text,,Рабочие на пирамидах всегда видимы
+ModOptions/#FixPyramidWorkerPositions_tooltip_on,Text,,"Отображает рабочих поверх слоёв пирамиды, чтобы они всегда были видны.
+Это предотвращает их исчезновение за слоем в некоторых случаях."
+ModOptions/#FixPyramidWorkerPositions_tooltip_off,Text,,Стандартное поведение: рабочие пирамиды иногда могут скрываться за слоем.
+ModOptions/#NormalizedCultureRating,Text,,Нормализованный рейтинг культуры
+ModOptions/#NormalizedCultureRating_tooltip_on,Text,,"Не ограничивает рейтинг культуры, если в миссии нельзя строить зоопарки."
+ModOptions/#NormalizedCultureRating_tooltip_off,Text,,Использует стандартный расчёт рейтинга культуры.
+ModOptions/#NormalizedMonumentRating,Text,,Нормализованный рейтинг монументов
+ModOptions/#NormalizedMonumentRating_tooltip_on,Text,,"В миссиях, требующих монументов, рейтинг монументов нормализуется от <color=white><b>0</b></color> до <color=white><b>100</b></color>.
+Это только визуальное изменение; условия победы не меняются."
+ModOptions/#NormalizedMonumentRating_tooltip_off,Text,,Использует стандартный расчёт рейтинга монументов.
+ModOptions/#ShowVideoSubtitles,Text,,Показывать субтитры в видеороликах
+ModOptions/#ShowVideoSubtitles_tooltip_on,Text,,Показывает субтитры в видеороликах.
+ModOptions/#ShowVideoSubtitles_tooltip_off,Text,,Скрывает субтитры в видеороликах.
+Menu/#options_notifications,Text,,Оповещения
+Menu/#options_keybinding,Text,,Горячие клавиши
+Menu/#options_mods,Text,,Модификации
+Menu/#ResetModOptions_Title,Text,,Сбросить настройки модификаций
+Menu/#ResetModOptions_Content,Text,,Выберите стандартный набор настроек
+Menu/#ResetModOptions_DefaultsPANE,Text,,Pharaoh: A New Era
+Menu/#ResetModOptions_DefaultsOG,Text,,Оригинальная игра

@@ -1,0 +1,387 @@
+Key,Type,Desc,Ru
+PHRASE_egyptian_city_attacked_comply_reason_P_A,Text,,"поскольку вашим воинам удалось победить врагов фараона у города {[city_name]},"
+PHRASE_egyptian_city_attacked_comply_reason_P_B,Text,,вашим воинам удалось победить врагов фараона у города {[city_name]}. К тому же
+PHRASE_egyptian_city_attacked_comply_reason_P_C,Text,,"хотя вашим воинам удалось победить врагов фараона у города {[city_name]},"
+PHRASE_egyptian_city_attacked_comply_reason_C_A,Text,,"поскольку ваши воины умело расправились с врагом у города {[city_name]},"
+PHRASE_egyptian_city_attacked_comply_reason_C_B,Text,,ваши воины умело расправились с врагом у города {[city_name]}. Вдобавок
+PHRASE_egyptian_city_attacked_comply_reason_C_C,Text,,"хотя ваши воины умело расправились с врагом у города {[city_name]},"
+PHRASE_egyptian_city_attacked_too_late_reason_P_A,Text,,"поскольку армия фараона так и не дождалась от вас подкрепления в битве у города {[city_name]},"
+PHRASE_egyptian_city_attacked_too_late_reason_P_B,Text,,"армия фараона проиграла в битве у города {[city_name]}, поскольку ваше войско опоздало. Кроме того,"
+PHRASE_egyptian_city_attacked_too_late_reason_P_C,Text,,"ваши войска прибыли слишком поздно, чтобы помочь армии фараона сразиться с врагом у города {[city_name]}, но ваши усилия всё же оценили. В результате"
+PHRASE_egyptian_city_attacked_too_late_reason_C_A,Text,,"поскольку вы слишком долго не отправляли воинов на защиту города {[city_name]},"
+PHRASE_egyptian_city_attacked_too_late_reason_C_B,Text,,ваши воины не успели на помощь городу {[city_name]}. К тому же
+PHRASE_egyptian_city_attacked_too_late_reason_C_C,Text,,"ваши воины слишком поздно прибыли на помощь городу {[city_name]}, но ввиду того, что вы приложили усилия и были готовы пожертвовать своим войском,"
+PHRASE_egyptian_city_attacked_refuse_reason_P_A,Text,,"поскольку вы отказались предоставить воинов фараону в битве у города {[city_name]},"
+PHRASE_egyptian_city_attacked_refuse_reason_P_B,Text,,"фараон узнал, что вы отказались предоставить воинов в битве у города {[city_name]}. Притом"
+PHRASE_egyptian_city_attacked_refuse_reason_P_C,Text,,"несмотря на то, что вы отказались предоставить воинов фараону в битве у города {[city_name]},"
+PHRASE_egyptian_city_attacked_refuse_reason_C_A,Text,,"поскольку вы отказались предоставить воинов для борьбы с налётчиками у города {[city_name]},"
+PHRASE_egyptian_city_attacked_refuse_reason_C_B,Text,,"в городе {[city_name]} пали духом, ведь вы отказались предоставить воинов против их врага. Кроме того,"
+PHRASE_egyptian_city_attacked_refuse_reason_C_C,Text,,"хотя вы отказались предоставить воинов для борьбы с налётчиками у города {[city_name]},"
+PHRASE_egyptian_city_attacked_lost_battle_reason_P_A,Text,,"поскольку воины, которых вы прислали фараону в город {[city_name]}, оказались слишком слабы,"
+PHRASE_egyptian_city_attacked_lost_battle_reason_P_B,Text,,"хилое войско, которое вы предоставили фараону, было разбито у города {[city_name]}. Также"
+PHRASE_egyptian_city_attacked_lost_battle_reason_P_C,Text,,"несмотря на то, что ваши воины не сумели помочь фараону у города {[city_name]},"
+PHRASE_egyptian_city_attacked_lost_battle_reason_C_A,Text,,"поскольку воины, которых вы направили в город {[city_name]}, не смогли справиться с захватчиком,"
+PHRASE_egyptian_city_attacked_lost_battle_reason_C_B,Text,,ваше слабое войско разгромили у города {[city_name]}. Вдобавок
+PHRASE_egyptian_city_attacked_lost_battle_reason_C_C,Text,,"хотя вашим воинам не удалось победить у города {[city_name]},"
+PHRASE_egyptian_city_attacked_no_reason_P_A,Text,,алчущие новых завоеваний
+PHRASE_egyptian_city_attacked_no_reason_P_B,Text,,"бедам нет конца, ибо"
+PHRASE_egyptian_city_attacked_no_reason_P_C,Text,,
+PHRASE_egyptian_city_attacked_no_reason_C_A,Text,,из-за давнего конфликта
+PHRASE_egyptian_city_attacked_no_reason_C_B,Text,,"бедам нет конца, ибо"
+PHRASE_egyptian_city_attacked_no_reason_C_C,Text,,
+PHRASE_distant_battle_comply_reason_P_A,Text,,"поскольку фараону удалось победить у города {[city_name]} благодаря вашему войску,"
+PHRASE_distant_battle_comply_reason_P_B,Text,,ваши воины помогли фараону одержать победу у города {[city_name]}. И вот ещё что:
+PHRASE_distant_battle_comply_reason_P_C,Text,,"хотя ваши воины помогли фараону одержать победу у города {[city_name]},"
+PHRASE_distant_battle_comply_reason_C_A,Text,,"поскольку ваши воины помогли городу {[city_name]} выиграть битву,"
+PHRASE_distant_battle_comply_reason_C_B,Text,,участие вашего войска стало решающим в победе у города {[city_name]}. Также
+PHRASE_distant_battle_comply_reason_C_C,Text,,"хотя участие вашего войска стало решающим в победе у города {[city_name]},"
+PHRASE_distant_battle_too_late_reason_P_A,Text,,"поскольку ваши солдаты не успели помочь фараону у города {[city_name]},"
+PHRASE_distant_battle_too_late_reason_P_B,Text,,ваши солдаты не успели помочь фараону у города {[city_name]}. Вдобавок
+PHRASE_distant_battle_too_late_reason_P_C,Text,,"хотя ваши солдаты не успели помочь фараону в битве у города {[city_name]}, он высоко оценил вашу готовность идти на жертвы ради царства. Поэтому"
+PHRASE_distant_battle_too_late_reason_C_A,Text,,"поскольку ваши воины опоздали к битве у города {[city_name]},"
+PHRASE_distant_battle_too_late_reason_C_B,Text,,"ваши воины опоздали к битве у города {[city_name]}. Кроме того,"
+PHRASE_distant_battle_too_late_reason_C_C,Text,,"хотя ваши воины опоздали к битве у города {[city_name]}, вашу готовность идти на жертвы ради царства высоко оценили. Поэтому"
+PHRASE_distant_battle_refuse_reason_P_A,Text,,"поскольку вы дерзко отклонили запрос фараона и не отправили воинов в город {[city_name]},"
+PHRASE_distant_battle_refuse_reason_P_B,Text,,"вы дерзко отклонили запрос фараона и не отправили воинов в город {[city_name]}. Это весьма недальновидное решение. Как бы там ни было,"
+PHRASE_distant_battle_refuse_reason_P_C,Text,,"хотя вы отклонили запрос фараона и не отправили воинов в город {[city_name]},"
+PHRASE_distant_battle_refuse_reason_C_A,Text,,"поскольку вы отказались предоставить воинов для битвы у города {[city_name]},"
+PHRASE_distant_battle_refuse_reason_C_B,Text,,"вы отказались предоставить воинов для битвы у города {[city_name]}, оставив земляков на произвол судьбы. К тому же"
+PHRASE_distant_battle_refuse_reason_C_C,Text,,"хотя вы отказались предоставить воинов для битвы в городе {[city_name]},"
+PHRASE_distant_battle_lost_battle_reason_P_A,Text,,"поскольку воины, которых вы направили в город {[city_name]}, не выстояли против врага фараона,"
+PHRASE_distant_battle_lost_battle_reason_P_B,Text,,"воины, которых вы направили в город {[city_name]}, пали в бою с врагом фараона. Кроме того,"
+PHRASE_distant_battle_lost_battle_reason_P_C,Text,,"хотя воины, которых вы направили в город {[city_name]}, пали в бою с врагом фараона,"
+PHRASE_distant_battle_lost_battle_reason_C_A,Text,,"поскольку войску, которое вы направили в город {[city_name]}, не хватило сил, чтобы сокрушить врага,"
+PHRASE_distant_battle_lost_battle_reason_C_B,Text,,"войску, которое вы направили в город {[city_name]}, не хватило сил, чтобы сокрушить нашего врага. Также учтите, что"
+PHRASE_distant_battle_lost_battle_reason_C_C,Text,,"хотя воины, которых вы направили в город {[city_name]}, не сумели сокрушить врага,"
+PHRASE_distant_battle_no_reason_P_A,Text,,"созывайте солдат, ибо"
+PHRASE_distant_battle_no_reason_P_B,Text,,"наши беды не кончаются, поскольку"
+PHRASE_distant_battle_no_reason_P_C,Text,,
+PHRASE_distant_battle_no_reason_C_A,Text,,"снаряжайте солдат,"
+PHRASE_distant_battle_no_reason_C_B,Text,,напастям нет конца. Ныне
+PHRASE_distant_battle_no_reason_C_C,Text,,
+PHRASE_general_request_comply_reason_P_A,Text,,"поскольку вы отправили запрошенное фараоном в город {[city_name]} ({[resource]}, {0} шт.),"
+PHRASE_general_request_comply_reason_P_B,Text,,"вы отправили в город {[city_name]} то, о чём просил фараон ({[resource]}, {0} шт.). К слову,"
+PHRASE_general_request_comply_reason_P_C,Text,,"вы отправили в город {[city_name]} то, о чём просил фараон ({[resource]}, {0} шт.), однако"
+PHRASE_general_request_comply_reason_C_A,Text,,"поскольку вы отправили то, что хотел город {[city_name]} ({[resource]}, {0} шт.),"
+PHRASE_general_request_comply_reason_C_B,Text,,"город {[city_name]} получил, что хотел ({[resource]}, {0} шт.). Также вам следует знать, что"
+PHRASE_general_request_comply_reason_C_C,Text,,"хотя вы отправили то, что хотел город {[city_name]} ({[resource]}, {0} шт.),"
+PHRASE_general_request_too_late_reason_P_A,Text,,"поскольку вы медлили с выполнением запроса фараона ({[resource]}, {0} шт.),"
+PHRASE_general_request_too_late_reason_P_B,Text,,"Запрос фараона (({[resource]}, {0} шт.) не был выполнен из-за того, что вы опоздали. Кроме того,"
+PHRASE_general_request_too_late_reason_P_C,Text,,"вы медлили с выполнением запроса фараона ({[resource]}, {0} шт.), однако ваши усилия не остались без внимания. Поэтому"
+PHRASE_general_request_too_late_reason_C_A,Text,,"поскольку вы опоздали с отправкой запрошенных городом {[city_name]} товаров ({[resource]}, {0} шт.),"
+PHRASE_general_request_too_late_reason_C_B,Text,,"вы опоздали с отправкой запрошенных городом {[city_name]} товаров ({[resource]}, {0} шт.). Также вам следует знать, что"
+PHRASE_general_request_too_late_reason_C_C,Text,,"хотя вы слишком поздно отправили запрошенное городом {[city_name]} ({[resource]}, {0} шт.), ваши усилия не остались без внимания. Поэтому"
+PHRASE_general_request_refuse_reason_P_A,Text,,"поскольку вы проигнорировали запрос фараона ({[resource]}, {0} шт.),"
+PHRASE_general_request_refuse_reason_P_B,Text,,"вы проигнорировали запрос фараона ({[resource]}, {0} шт.), и он остался этим недовольным. К тому же,"
+PHRASE_general_request_refuse_reason_P_C,Text,,"хотя вы проигнорировали запрос фараона ({[resource]}, {0} шт.),"
+PHRASE_general_request_refuse_reason_C_A,Text,,"поскольку вы не отправили товары в город {[city_name]} ({[resource]}, {0} шт.),"
+PHRASE_general_request_refuse_reason_C_B,Text,,"вы не отправили в город {[city_name]} ({[resource]}, {0} шт.), и им это не понравилось. Вдобавок"
+PHRASE_general_request_refuse_reason_C_C,Text,,"несмотря на то, что вы не отправили в город {[city_name]} ({[resource]}, {0} шт),"
+PHRASE_general_request_no_reason_P_A,Text,,"чтобы пополнить запасы в своих владениях,"
+PHRASE_general_request_no_reason_P_B,Text,,"алчность фараона не знает границ, поэтому"
+PHRASE_general_request_no_reason_P_C,Text,,
+PHRASE_general_request_no_reason_C_A,Text,,"чтобы удовлетворить потребности жителей,"
+PHRASE_general_request_no_reason_C_B,Text,,"нет конца этому,"
+PHRASE_general_request_no_reason_C_C,Text,,
+PHRASE_great_festival_comply_reason_P_A,Text,,"поскольку вы проявили почтение к фараону и богу {[god]}, вовремя отравив к великому празднику в городе {[city_name]} необходимые припасы ({[resource]}, {0} шт.),"
+PHRASE_great_festival_comply_reason_P_B,Text,,"вы проявили любезное почтение к фараону и богу {[god]}, вовремя отравив к великому празднику в городе {[city_name]} необходимые припасы ({[resource]}, {0} шт.). Также,"
+PHRASE_great_festival_comply_reason_P_C,Text,,"хотя вы проявили любезное почтение к фараону и богу {[god]}, вовремя отравив к великому празднику в городе {[city_name]} необходимые припасы ({[resource]}, {0} шт.),"
+PHRASE_great_festival_comply_reason_C_A,Text,,"поскольку вы помогли городу {[city_name]} устроить великий праздник в честь божества {[god]}, отправив ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_comply_reason_C_B,Text,,"вы помогли городу {[city_name]} устроить великий праздник в честь божества {[god]}, отправив ресурс ({[resource]}, {0} шт.). Город очень вам признателен. Кроме того,"
+PHRASE_great_festival_comply_reason_C_C,Text,,"хотя вы помогли городу {[city_name]} устроить великий праздник в честь божества {[god]}, отправив ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_too_late_reason_P_A,Text,,"поскольку вы слишком поздно отправили необходимые припасы ({[resource]}, {0} шт.) в город {[city_name]} на великий праздник, устроенный фараоном в честь бога {[god]},"
+PHRASE_great_festival_too_late_reason_P_B,Text,,"вы слишком поздно отправили необходимые припасы ({[resource]}, {0} шт.) в город {[city_name]} на великий праздник, устроенный фараоном в честь бога {[god]}. Также,"
+PHRASE_great_festival_too_late_reason_P_C,Text,,"хотя вы слишком поздно отправили необходимые припасы ({[resource]}, {0} шт.) в город {[city_name]} на великий праздник, устроенный фараоном в честь бога {[god]},"
+PHRASE_great_festival_too_late_reason_C_A,Text,,"поскольку город {[city_name]} не получил к великому празднику в честь божества {[god]} нужный товар ({[resource]}, {0} шт.),"
+PHRASE_great_festival_too_late_reason_C_B,Text,,"город {[city_name]} не получил к великому празднику в честь божества {[god]} нужный товар ({[resource]}, {0} шт.). К тому же,"
+PHRASE_great_festival_too_late_reason_C_C,Text,,"пусть город {[city_name]} не получил к великому празднику в честь божества {[god]} нужный товар ({[resource]}, {0} шт.), вы всё же старались,"
+PHRASE_great_festival_refuse_reason_P_A,Text,,"поскольку вы не выполнили запрос фараона и не отправили в город {[city_name]} на великий праздник в честь божества {[god]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_refuse_reason_P_B,Text,,"вы не выполнили запрос фараона и не отправили в город {[city_name]} на великий праздник в честь божества {[god]} ресурс ({[resource]}, {0} шт.). К тому же,"
+PHRASE_great_festival_refuse_reason_P_C,Text,,"несмотря на то, что вы не выполнили запрос фараона и не отправили в город {[city_name]} на великий праздник в честь божества {[god]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_refuse_reason_C_A,Text,,"поскольку вы проигнорировали запрос города {[city_name]} и не отправили на великий праздник в честь божества {[god]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_refuse_reason_C_B,Text,,"вы проигнорировали город {[city_name]} и его просьбу предоставить {0} {[resource]} для великого праздника в честь {[god]}. Кроме того,"
+PHRASE_great_festival_refuse_reason_C_C,Text,,"хотя вы проигнорировали запрос города {[city_name]} и не отправили на великий праздник в честь божества {[god]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_great_festival_no_reason_P_A,Text,,"чтобы почтить божество,"
+PHRASE_great_festival_no_reason_P_B,Text,,"{[god]} проявляет недовольство, поэтому"
+PHRASE_great_festival_no_reason_P_C,Text,,
+PHRASE_great_festival_no_reason_C_A,Text,,"поскольку город {[city_name]} благословлён богом {[god]},"
+PHRASE_great_festival_no_reason_C_B,Text,,"{[god]} проявляет недовольство, поэтому"
+PHRASE_great_festival_no_reason_C_C,Text,,
+PHRASE_project_comply_reason_P_A ,Text,,"благодаря тому, что отправленные вами материалы ({[resource]}, {0} шт.) были очень важны для своевременного завершения проекта фараона в городе {[city_name]}, поэтому"
+PHRASE_project_comply_reason_P_B,Text,,"отправленные вами материалы ({[resource]}, {0} шт.) были очень важны для своевременного завершения проекта фараона в городе {[city_name]}. Также,"
+PHRASE_project_comply_reason_P_C,Text,,"хотя отправленные вами материалы ({[resource]}, {0} шт.) были очень важны для своевременного завершения проекта фараона в городе {[city_name]},"
+PHRASE_project_comply_reason_C_A ,Text,,"поскольку вы помогли городу {[city_name]} закончить стройку в срок, отправив материалы ({[resource]}, {0} шт.),"
+PHRASE_project_comply_reason_C_B,Text,,"вы помогли городу {[city_name]} соблюсти график стройки, отправив материалы ({[resource]}, {0} шт.). Вдобавок"
+PHRASE_project_comply_reason_C_C,Text,,"хотя вы помогли городу {[city_name]} закончить стройку в срок, отправив материалы ({[resource]}, {0} шт.),"
+PHRASE_project_too_late_reason_P_A,Text,,"так как вы долго не отправляли материалы ({[resource]}, {0} шт.) в город {[city_name]} и затянули стройку фараона,"
+PHRASE_project_too_late_reason_P_B,Text,,"вы слишком долго не отправляли материалы ({[resource]}, {0} шт.), и стройка фараона в городе {[city_name]} затянулась. Кроме того,"
+PHRASE_project_too_late_reason_P_C,Text,,"несмотря на то, что вы долго не отправляли материалы ({[resource]}, {0} шт.) в город {[city_name]} и затянули стройку фараона, ваши усилия всё равно были оценены, и поэтому"
+PHRASE_project_too_late_reason_C_A,Text,,"поскольку вы слишком долго откладывали отправку материалов ({[resource]}, {0} шт.) в город {[city_name]},"
+PHRASE_project_too_late_reason_C_B,Text,,"вы слишком долго откладывали отправку нужных материалов ({[resource]}, {0} шт.) в город {[city_name]}. Притом"
+PHRASE_project_too_late_reason_C_C,Text,,"хотя вы слишком долго откладывали отправку нужных материалов ({[resource]}, {0} шт.) в город {[city_name]}, ваши усилия всё равно были оценены. Поэтому"
+PHRASE_project_refuse_reason_P_A,Text,,"поскольку вы отклонили просьбу фараона предоставить {0} {[resource]} для его важного проекта в городе {city_name],"
+PHRASE_project_refuse_reason_P_B,Text,,"вы неосмотрительно отклонили просьбу фараона предоставить {0} {[resource]} для его важного проекта в городе {city_name]. Кроме того,"
+PHRASE_project_refuse_reason_P_C,Text,,"хотя вы неосмотрительно отклонили просьбу фараона предоставить {0} {[resource]} для его важного проекта в городе {city_name],"
+PHRASE_project_refuse_reason_C_A,Text,,"поскольку вы отвергли город {[city_name]} и не отправили им товары ({[resource]}, {0} шт.),"
+PHRASE_project_refuse_reason_C_B,Text,,"вы отвергли город {[city_name]} и не отправили им товары ({[resource]}, {0} шт.). Вдобавок,"
+PHRASE_project_refuse_reason_C_C,Text,,"хотя вы отвергли город {[city_name]} и не отправили им товары ({[resource]}, {0} шт.),"
+PHRASE_project_no_reason_P_A,Text,,в честь своих многочисленных достижений
+PHRASE_project_no_reason_P_B,Text,,"поскольку впереди ещё много работы,"
+PHRASE_project_no_reason_P_C,Text,,
+PHRASE_project_no_reason_C_A ,Text,,во славу Египта
+PHRASE_project_no_reason_C_B,Text,,"поскольку ещё многое предстоит сделать,"
+PHRASE_project_no_reason_C_C,Text,,
+PHRASE_famine_comply_reason_P_A,Text,,"поскольку вы скоро исполнили приказ фараоны и отправили пищу ({[resource]}, {0} шт.) в город {[city_name]},"
+PHRASE_famine_comply_reason_P_B,Text,,"вы скоро исполнили приказ фараоны и отправили пищу ({[resource]}, {0} шт.) в город {[city_name]}. Это было очень мудро. Теперь,"
+PHRASE_famine_comply_reason_P_C,Text,,"хотя вы скоро исполнили приказ фараоны и отправили пищу ({[resource]}, {0} шт.) в город {[city_name]},"
+PHRASE_famine_comply_reason_C_A,Text,,"поскольку отправленная вами пища ({[resource]}, {0} ед.) помогла городу {[city_name]} прокормить своих голодающих жителей,"
+PHRASE_famine_comply_reason_C_B,Text,,"отправленная вами пища ({[resource]}, {0} ед.) помогла городу {[city_name]} прокормить своих голодающих жителей. Также визири докладывают, что"
+PHRASE_famine_comply_reason_C_C,Text,,"хотя вы отправили пищу ({[resource]}, {0} шт.) и помогли жителям города {[city_name]} справиться с голодом,"
+PHRASE_famine_too_late_reason_P_A,Text,,"поскольку вы слишком долго заставляли подданных фараона в городе {[city_name]} страдать, не отправляя им {0} {[resource]},"
+PHRASE_famine_too_late_reason_P_B,Text,,"вы слишком долго заставляли подданных фараона в городе {[city_name]} страдать, не отправляя им необходимые {0} {[resource]}. Кроме того, советники сообщают, что"
+PHRASE_famine_too_late_reason_P_C,Text,,"хотя вы слишком долго заставляли подданных фараона в городе {[city_name]} страдать, не отправляя им необходимые {0} {[resource]}, эта помощь всё же оказалась полезной, поэтому"
+PHRASE_famine_too_late_reason_C_A,Text,,"поскольку вы слишком поздно отправили пищу ({[resource]}, {0} шт.) в помощь жителям города {[city_name]},"
+PHRASE_famine_too_late_reason_C_B,Text,,"вы слишком поздно отправили пищу ({[resource]}, {0} шт.) в помощь жителям города {[city_name]}, и их страдания были велики. К тому же,"
+PHRASE_famine_too_late_reason_C_C,Text,,"хотя вы слишком поздно отправили пищу ({[resource]}, {0} шт.) в помощь жителям города {[city_name]}, она всё же помогла смягчить последствия голода, так что"
+PHRASE_famine_refuse_reason_P_A,Text,,"поскольку вы отвернулись от фараона и его подданных в городе {[city_name]}, отказавшись отправить голодающим пищу ({[resource]}, {0} шт.),"
+PHRASE_famine_refuse_reason_P_B,Text,,"вы отвернулись от фараона и его подданных в городе {[city_name]}, отказавшись отправить голодающим пищу ({[resource]}, {0} шт.). Это было глупо. Советники также сообщают, что"
+PHRASE_famine_refuse_reason_P_C,Text,,"вы отвернулись от фараона и его подданных в городе {[city_name]} во время голода, отказавшись отправить {0} {[resource]}, но несмотря на это"
+PHRASE_famine_refuse_reason_C_A,Text,,"поскольку вы отвернулись от жителей города {[city_name]}, отказавшись прислать им пищу ({[resource]}, {0} шт.) в голодное время,"
+PHRASE_famine_refuse_reason_C_B,Text,,"вы отвернулись от жителей города {[city_name]}, отказавшись прислать им пищу ({[resource]}, {0} шт.) в голодное время. Советники также сообщают, что"
+PHRASE_famine_refuse_reason_C_C,Text,,"хотя вы отвернулись от жителей города {[city_name]}, отказавшись прислать им пищу ({[resource]}, {0} шт.) в голодное время,"
+PHRASE_famine_no_reason_P_A,Text,,удача отвернулась от подданных фараона
+PHRASE_famine_no_reason_P_B,Text,,"напасти всё множатся,"
+PHRASE_famine_no_reason_P_C,Text,,
+PHRASE_famine_no_reason_C_A,Text,,"жители города {[city_name]} теряют надежду, поскольку"
+PHRASE_famine_no_reason_C_B,Text,,"напасти всё множатся,"
+PHRASE_famine_no_reason_C_C,Text,,
+PHRASE_threat_comply_reason_P_A,Text,,"поскольку вы исполнили волю фараона и отправили в город {[city_name]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_comply_reason_P_B,Text,,"вы уступили фараону и отправили {0} {[resource]} в связи с городом {[city_name]}. Кроме того, советники сообщают, что"
+PHRASE_threat_comply_reason_P_C,Text,,"хотя вы сделали для города {[city_name]} всё, что требовал фараон,"
+PHRASE_threat_comply_reason_C_A,Text,,"поскольку вы отправили ресурс ({[resource]}, {0} шт.), выполнив требование города {[city_name]},"
+PHRASE_threat_comply_reason_C_B,Text,,"вы отправили ресурс ({[resource]}, {0} шт.), выполнив требование города {[city_name]}. И похоже, что"
+PHRASE_threat_comply_reason_C_C,Text,,"хотя вы уступили требованиям города {[city_name]} и отправили {0} {[resource]}, всё же"
+PHRASE_threat_too_late_reason_P_A,Text,,"вы слишком долго медлили с отправкой в город {[city_name]} товара ({[resource]}, {0} шт.), испытывая терпение фараона. Потому"
+PHRASE_threat_too_late_reason_P_B,Text,,"вы слишком долго медлили с отправкой в город {[city_name]} товара ({[resource]}, {0} шт.), испытывая терпение фараона. Также вам нужно знать, что"
+PHRASE_threat_too_late_reason_P_C,Text,,"задержка с отправкой {0} {[resource]} в город {[city_name]} по требованию фараона испытывает его терпение, но ваши усилия всё же оценены. Поэтому"
+PHRASE_threat_too_late_reason_C_A,Text,,"поскольку вы недооценили угрозы города {[city_name]} и не отправили ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_too_late_reason_C_B,Text,,"должно быть, вы недооценили угрозы города {[city_name]} и не отправили ресурс ({[resource]}, {0} шт.). Но это уже в прошлом,"
+PHRASE_threat_too_late_reason_C_C,Text,,"вы сильно рисковали, промедлив с отправкой в город {[city_name]} ресурса ({[resource]}, {0} шт). Однако вы все же выполнили требование, поэтому"
+PHRASE_threat_refuse_reason_P_A,Text,,"поскольку вы нарушили приказ фараона и не отправили в город {[city_name]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_refuse_reason_P_B,Text,,"вы нарушили приказ фараона и не отправили в город {[city_name]} ресурс ({[resource]}, {0} шт.). Кроме того,"
+PHRASE_threat_refuse_reason_P_C,Text,,"несмотря на то, что вы проигнорировали угрозы фараона, требовавшего отправить в город {[city_name]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_refuse_reason_C_A,Text,,"поскольку вы сознательно навлекли на себя опасность, отказавшись отправить в город {[city_name]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_refuse_reason_C_B,Text,,"вы сознательно навлекли на себя опасность, отказавшись отправить в город {[city_name]} ресурс ({[resource]}, {0} шт.). Также вам следует знать, что"
+PHRASE_threat_refuse_reason_C_C,Text,,"хотя вы определённо навлекли на себя опасность, отказавшись отправить в город {[city_name]} ресурс ({[resource]}, {0} шт.),"
+PHRASE_threat_no_reason_P_A,Text,,"фараон в дурном расположении духа, поэтому"
+PHRASE_threat_no_reason_P_B,Text,,"ничто не радует нашего фараона, поэтому"
+PHRASE_threat_no_reason_P_C,Text,,
+PHRASE_threat_no_reason_C_A ,Text,,"город {[city_name]} жаждет славы, поэтому"
+PHRASE_threat_no_reason_C_B,Text,,"аппетиты города {[city_name]} поистине непомерны, вот и сейчас"
+PHRASE_threat_no_reason_C_C,Text,,
+PHRASE_eg_city_falls_reason_A,Text,,"поскольку город {[city_name]} пал перед захватчиками,"
+PHRASE_eg_city_falls_reason_B,Text,,город {[city_name]} пал перед захватчиками. К тому же
+PHRASE_eg_city_falls_reason_C,Text,,"хотя город {[city_name]} пал перед захватчиками,"
+PHRASE_eg_city_falls_no_reason_A,Text,,горе городу {[city_name]}:
+PHRASE_eg_city_falls_no_reason_B,Text,,"похоже, бедам города {[city_name]} не будет конца, ведь"
+PHRASE_eg_city_falls_no_reason_C,Text,,
+PHRASE_foreign_city_conquered_reason_A,Text,,"поскольку наши воины захватили чужеземный город {[city_name]},"
+PHRASE_foreign_city_conquered_reason_B,Text,,наши воины захватили чужеземный город {[city_name]}! Теперь
+PHRASE_foreign_city_conquered_reason_C,Text,,"хотя наши воины захвали чужеземный город {[city_name]},"
+PHRASE_foreign_city_conquered_no_reason_A,Text,,наше оружие не знает поражений!
+PHRASE_foreign_city_conquered_no_reason_B,Text,,могущество нашего царства продолжает расти. Теперь
+PHRASE_foreign_city_conquered_no_reason_C,Text,,
+PHRASE_route_opened_reason_A,Text,,"поскольку появился новый торговый путь в город {[city_name]},"
+PHRASE_route_opened_reason_B,Text,,"появился новый торговый путь в город {[city_name]}, и"
+PHRASE_route_opened_reason_C,Text,,"хотя теперь мы можем торговать с городом {[city_name]},"
+PHRASE_route_opened_no_reason_A,Text,,благодаря плодотворным переговорам
+PHRASE_route_opened_no_reason_B,Text,,времена меняются! Теперь
+PHRASE_route_opened_no_reason_C,Text,,
+PHRASE_route_closed_reason_A,Text,,"поскольку торговый путь в город {[city_name]} был закрыт,"
+PHRASE_route_closed_reason_B,Text,,торговый путь в город {[city_name]} был закрыт. Вдобавок
+PHRASE_route_closed_reason_C,Text,,"хотя торговый путь в город {[city_name]} был закрыт,"
+PHRASE_route_closed_no_reason_A,Text,,из-за политической неопределённости
+PHRASE_route_closed_no_reason_B,Text,,"…этого следовало ожидать. Похоже,"
+PHRASE_route_closed_no_reason_C,Text,,
+PHRASE_siege_reason_A,Text,,"поскольку город {[city_name]} в осаде,"
+PHRASE_siege_reason_B,Text,,"город {[city_name]} в осаде, и"
+PHRASE_siege_reason_C,Text,,"хотя город {[city_name]} в осаде,"
+PHRASE_siege_no_reason_A,Text,,"разведчики вернулись с ужасным известием. Похоже, что"
+PHRASE_siege_no_reason_B,Text,,нет конца нашим страданиям. Отныне
+PHRASE_siege_no_reason_C,Text,,
+PHRASE_eg_city_saved_reason_A,Text,,"поскольку город {[city_name]} удалось защитить от нашествия врагов,"
+PHRASE_eg_city_saved_reason_B,Text,,город {[city_name]} удалось защитить от нашествия врагов! Теперь
+PHRASE_eg_city_saved_reason_C,Text,,"хотя город {[city_name]} удалось защитить от нашествия врагов,"
+PHRASE_eg_city_saved_no_reason_A,Text,,благодаря доблести египетской армии
+PHRASE_eg_city_saved_no_reason_B,Text,,"расстановка сил постоянно меняется, однако"
+PHRASE_eg_city_saved_no_reason_C,Text,,
+PHRASE_battle_won_reason_A,Text,,"поскольку наши воины одержали верх в далёкой битве у города {[city_name]},"
+PHRASE_battle_won_reason_B,Text,,наши войска победили в далёкой битве при городе {[city_name]}. Теперь
+PHRASE_battle_won_reason_C,Text,,"несмотря на победу наших войск в битве при городе {[city_name]},"
+PHRASE_battle_won_no_reason_A,Text,,благодаря доблести хорошо обученных солдат в далёком городе {[city_name]}
+PHRASE_battle_won_no_reason_B,Text,,"кажется, чудесам не будет конца: при городе {[city_name]}"
+PHRASE_battle_won_no_reason_C,Text,,
+PHRASE_battle_lost_reason_A,Text,,"поскольку Египет проиграл битву у города {[city_name]},"
+PHRASE_battle_lost_reason_B,Text,,Египет проиграл битву у города {[city_name]}. К тому же
+PHRASE_battle_lost_reason_C,Text,,"хотя Египет проиграл битву у города {[city_name]},"
+PHRASE_battle_lost_no_reason_A,Text,,"досадная неудача постигла наших воинов. К сожалению,"
+PHRASE_battle_lost_no_reason_B,Text,,"война ужасно непредсказуема. К несчастью,"
+PHRASE_battle_lost_no_reason_C,Text,,
+PHRASE_acknowledgement_reason_A,Text,,"поскольку вы безропотно пошли на попятную,"
+PHRASE_acknowledgement_reason_B,Text,,"вы безропотно пошли на попятную, и"
+PHRASE_acknowledgement_reason_C,Text,,"хотя вы безропотно пошли на попятную,"
+PHRASE_acknowledgement_no_reason_A,Text,,"передумав,"
+PHRASE_acknowledgement_no_reason_B,Text,,"никогда ни в чём нельзя быть уверенным, но"
+PHRASE_acknowledgement_no_reason_C,Text,,
+PHRASE_pharaoh_attacks_you_reason_A ,Text,,"поскольку на город напала армия фараона,"
+PHRASE_pharaoh_attacks_you_reason_B,Text,,"на ваш город напала армия фараона. Более того,"
+PHRASE_pharaoh_attacks_you_reason_C,Text,,"хотя на город напала армия фараона,"
+PHRASE_pharaoh_attacks_you_no_reason_A,Text,,"порой фараон поступает по причинам, известным лишь ему."
+PHRASE_pharaoh_attacks_you_no_reason_B,Text,,Фараон непредсказуем. Теперь
+PHRASE_pharaoh_attacks_you_no_reason_C,Text,,"вы полностью утратили доверие, поэтому"
+PHRASE_pharaoh_attacks_you_because_of_low_favor,Text,,"ваша репутация в Царстве окончательно испорчена. Быть может, если одарить египетский народ, вы ещё сможете вернуть его расположение, однако"
+PHRASE_eg_city_attacks_you_reason_A ,Text,,"поскольку на ваш город напала египетская армия,"
+PHRASE_eg_city_attacks_you_reason_B,Text,,"египетская армия напала на ваш город! Кроме того,"
+PHRASE_eg_city_attacks_you_reason_C,Text,,"хотя на ваш город напала египетская армия,"
+PHRASE_eg_city_attacks_you_no_reason_A,Text,,берегитесь:
+PHRASE_eg_city_attacks_you_no_reason_B,Text,,"настало время войны, ибо"
+PHRASE_eg_city_attacks_you_no_reason_C,Text,,"поскольку ваша репутация в царстве крайне низка,"
+PHRASE_eg_city_attacks_you_because_of_low_favor,Text,,"ваша репутация в Царстве окончательно испорчена. Быть может, если одарить египетский народ, вы ещё сможете вернуть его расположение, однако"
+PHRASE_foreign_army_attacks_you_reason_A ,Text,,"поскольку на город напала {[a_foreign_army]},"
+PHRASE_foreign_army_attacks_you_reason_B,Text,,на город напала {[a_foreign_army]}. Теперь
+PHRASE_foreign_army_attacks_you_reason_C,Text,,"хотя на город напала {[a_foreign_army]},"
+PHRASE_foreign_army_attacks_you_no_reason_A,Text,,"стремясь создать собственную империю,"
+PHRASE_foreign_army_attacks_you_no_reason_B,Text,,"нет конца нашим бедам,"
+PHRASE_foreign_army_attacks_you_no_reason_C,Text,,
+PHRASE_rating_change_reason_I_A ,Text,,"поскольку ваша репутация в Царстве недавно выросла,"
+PHRASE_rating_change_reason_I_B,Text,,ваша репутация в царстве улучшилась. Теперь
+PHRASE_rating_change_reason_I_C,Text,,"ваша репутация растёт, однако"
+PHRASE_rating_change_no_reason_I_A,Text,,"настали хорошие времена,"
+PHRASE_rating_change_no_reason_I_B,Text,,"радостные вести,"
+PHRASE_rating_change_no_reason_I_C,Text,,египетский народ высоко ценит боевые жертвы вашего города. В результате
+PHRASE_rating_change_reason_D_A ,Text,,"поскольку ваша репутация сильно пострадала,"
+PHRASE_rating_change_reason_D_B,Text,,"вы теряете популярность в Царстве, и теперь"
+PHRASE_rating_change_reason_D_C,Text,,"хотя вы теряете популярность по всему Царству,"
+PHRASE_rating_change_no_reason_D_A,Text,,"в Царстве растёт недовольство,"
+PHRASE_rating_change_no_reason_D_B,Text,,"плохие вести,"
+PHRASE_rating_change_no_reason_D_C,Text,,ваши соотечественники не одобряют вашу жестокость. В результате
+PHRASE_price_change_reason_I_A ,Text,,"поскольку цена на ресурс {[resource]} возросла,"
+PHRASE_price_change_reason_I_B,Text,,"цена на {[resource]} выросла, и более того,"
+PHRASE_price_change_reason_I_C,Text,,"хотя цены выросли,"
+PHRASE_price_change_no_reason_I_A,Text,,из-за снижения поставок по всему миру
+PHRASE_price_change_no_reason_I_B,Text,,"поскольку рынок продолжает меняться,"
+PHRASE_price_change_no_reason_I_C,Text,,
+PHRASE_price_change_reason_D_A ,Text,,"поскольку цена на ваш товар {[resource]} снизилась,"
+PHRASE_price_change_reason_D_B,Text,,"цены упали, и более того,"
+PHRASE_price_change_reason_D_C,Text,,"хотя цены упали,"
+PHRASE_price_change_no_reason_D_A,Text,,из-за переизбытка по всему Царству
+PHRASE_price_change_no_reason_D_B,Text,,"поскольку рынок продолжает меняться,"
+PHRASE_price_change_no_reason_D_C,Text,,
+PHRASE_demand_change_reason_I_A,Text,,"поскольку {[city_name]} хочет торговать товаром {[resource]} всё больше,"
+PHRASE_demand_change_reason_I_B,Text,,"{[city_name]} хочет ещё больше торговать товаром {[resource]}. Кроме того,"
+PHRASE_demand_change_reason_I_C,Text,,"хотя {[city_name]} хочет ещё больше торговать товаром {[resource]},"
+PHRASE_demand_change_no_reason_I_A,Text,,"поскольку {[city_name]} растёт,"
+PHRASE_demand_change_no_reason_I_B,Text,,"времена меняются, и теперь"
+PHRASE_demand_change_no_reason_I_C,Text,,
+PHRASE_demand_change_reason_D_A,Text,,"поскольку {[city_name]} торгует товаром {[resource]} всё меньше,"
+PHRASE_demand_change_reason_D_B,Text,,"{[city_name]} теперь торгует меньше, и"
+PHRASE_demand_change_reason_D_C,Text,,"хотя в город {[city_name]} стал меньше торговать,"
+PHRASE_demand_change_no_reason_D_A,Text,,"поскольку жители города {[city_name]} сокращают расходы,"
+PHRASE_demand_change_no_reason_D_B,Text,,"времена меняются, и теперь"
+PHRASE_demand_change_no_reason_D_C,Text,,
+PHRASE_earthquake_reason_A ,Text,,из-за страшного землетрясения
+PHRASE_earthquake_reason_B,Text,,вдобавок к страшному землетрясению
+PHRASE_earthquake_reason_C,Text,,"несмотря на ужасное землетрясение,"
+PHRASE_earthquake_no_reason_A,Text,,жители города в ужасе
+PHRASE_earthquake_no_reason_B,Text,,беда опять подкралась к городу
+PHRASE_earthquake_no_reason_C,Text,,
+PHRASE_stormy_seas_reason_A ,Text,,"море невероятно разбушевалось, поэтому"
+PHRASE_stormy_seas_reason_B,Text,,"пока нас одолевали шторма,"
+PHRASE_stormy_seas_reason_C,Text,,"несмотря на ужасные бури,"
+PHRASE_stormy_seas_no_reason_A,Text,,бушует шторм
+PHRASE_stormy_seas_no_reason_B,Text,,"нам выпало новое испытание,"
+PHRASE_stormy_seas_no_reason_C,Text,,
+PHRASE_sandstorm_reason_A,Text,,"поскольку торговцы не решаются выдвигаться в путь, пока бушует песчаная буря, сухопутная торговля остановилась,"
+PHRASE_sandstorm_reason_B,Text,,"песчаные бури остановили торговцев. Кроме того,"
+PHRASE_sandstorm_reason_C,Text,,"несмотря на песчаные бури, нарушившие торговлю,"
+PHRASE_sandstorm_no_reason_A,Text,,из-за сильных ветров
+PHRASE_sandstorm_no_reason_B,Text,,"пустыня — опасное место,"
+PHRASE_sandstorm_no_reason_C,Text,,
+PHRASE_wage_change_reason_I_A ,Text,,"поскольку жалование по всему Царству растёт,"
+PHRASE_wage_change_reason_I_B,Text,,"жалование по всему Царству растёт, и"
+PHRASE_wage_change_reason_I_C,Text,,"хотя жалование по всему Царству растёт,"
+PHRASE_wage_change_no_reason_I_A,Text,,"времена меняются, и теперь"
+PHRASE_wage_change_no_reason_I_B,Text,,"для одних повод радостный, для других — досадный:"
+PHRASE_wage_change_no_reason_I_C,Text,,
+PHRASE_wage_change_reason_D_A ,Text,,"поскольку жалование падает,"
+PHRASE_wage_change_reason_D_B,Text,,"жалование падает, кроме того,"
+PHRASE_wage_change_reason_D_C,Text,,"хотя жалование падает,"
+PHRASE_wage_change_no_reason_D_A,Text,,в попытке сократить траты
+PHRASE_wage_change_no_reason_D_B,Text,,"некоторые недовольны, но номархи ликуют, ведь"
+PHRASE_wage_change_no_reason_D_C,Text,,
+PHRASE_bad_water_reason_A ,Text,,из-за недавнего загрязнения воды
+PHRASE_bad_water_reason_B,Text,,загрязнение воды стало прискорбным событием. Теперь
+PHRASE_bad_water_reason_C,Text,,"несмотря на недавнее загрязнение воды,"
+PHRASE_bad_water_no_reason_A,Text,,несчастья преследуют наш город
+PHRASE_bad_water_no_reason_B,Text,,", это и впрямь прискорбно. Похоже,"
+PHRASE_bad_water_no_reason_C,Text,,
+PHRASE_goldmine_cavein_reason_A ,Text,,из-за обрушения золотого рудника
+PHRASE_goldmine_cavein_reason_B,Text,,обрушение золотого рудника омрачило жизнь города. Теперь
+PHRASE_goldmine_cavein_reason_C,Text,,"несмотря на обрушение золотого рудника,"
+PHRASE_goldmine_cavein_no_reason_A,Text,,из-за движения песков
+PHRASE_goldmine_cavein_no_reason_B,Text,,случилось непредвиденное! Наш
+PHRASE_goldmine_cavein_no_reason_C,Text,,
+PHRASE_landslide_reason_A ,Text,,"из-за недавнего оползня,"
+PHRASE_landslide_reason_B,Text,,недавние оползни были разрушительными. Теперь
+PHRASE_landslide_reason_C,Text,,"несмотря на недавние ужасные оползни,"
+PHRASE_landslide_no_reason_A,Text,,пришли ужасные вести:
+PHRASE_landslide_no_reason_B,Text,,без всякого предупреждения
+PHRASE_landslide_no_reason_C,Text,,
+PHRASE_flood_fails_reason_A ,Text,,"поскольку ожидается неудачный разлив,"
+PHRASE_flood_fails_reason_B,Text,,"разлива не будет, и"
+PHRASE_flood_fails_reason_C,Text,,"хотя разлива не будет,"
+PHRASE_flood_fails_no_reason_A,Text,,"засуха охватила всю Африку, и"
+PHRASE_flood_fails_no_reason_B,Text,,"нам выпало новое испытание,"
+PHRASE_flood_fails_no_reason_C,Text,,
+PHRASE_perfect_flood_reason_A ,Text,,"поскольку в этом году ожидается хороший разлив,"
+PHRASE_perfect_flood_reason_B,Text,,"в этом году ожидается хороший разлив, и"
+PHRASE_perfect_flood_reason_C,Text,,"хотя в этом году ожидается хороший разлив,"
+PHRASE_perfect_flood_no_reason_A,Text,,вас ждёт благая весть — вскоре в Африку придут обильные дожди
+PHRASE_perfect_flood_no_reason_B,Text,,удача на нашей стороне
+PHRASE_perfect_flood_no_reason_C,Text,,
+PHRASE_flood_perfect_reason_A ,Text,,"поскольку в этом году ожидается хороший разлив,"
+PHRASE_flood_perfect_reason_B,Text,,"в этом году ожидается хороший разлив, и"
+PHRASE_flood_perfect_reason_C,Text,,"хотя в этом году ожидается хороший разлив,"
+PHRASE_flood_perfect_no_reason_A,Text,,вас ждёт благая весть — вскоре в Африку придут обильные дожди
+PHRASE_flood_perfect_no_reason_B,Text,,удача на нашей стороне
+PHRASE_flood_perfect_no_reason_C,Text,,
+PHRASE_bedouin_attacks_you_reason_A ,Text,,"поскольку вам удалось отбиться от бедуинской армии,"
+PHRASE_bedouin_attacks_you_reason_B,Text,,вам удалось отбиться от бедуинской армии. К тому же
+PHRASE_bedouin_attacks_you_reason_C,Text,,"хотя вам удалось отбиться от бедуинской армии,"
+PHRASE_bedouin_attacks_you_no_reason_A,Text,,"враги жаждут наших богатств,"
+PHRASE_bedouin_attacks_you_no_reason_B,Text,,"нам угрожает великая беда,"
+PHRASE_bedouin_attacks_you_no_reason_C,Text,,
+PHRASE_gift_accepted_reason_P_A,Text,,"поскольку вы приняли дар — {0} {[resource]} — от города {[city_name]},"
+PHRASE_gift_accepted_reason_P_B,Text,,"вы приняли подарок от города {[city_name]},"
+PHRASE_gift_accepted_reason_P_C,Text,,"хотя вы приняли подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_accepted_reason_C_A,Text,,"поскольку вы приняли дар — {0} {[resource]} — от города {[city_name]},"
+PHRASE_gift_accepted_reason_C_B,Text,,"вы приняли подарок от города {[city_name]},"
+PHRASE_gift_accepted_reason_C_C,Text,,"хотя вы приняли подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_forfeited_reason_P_A,Text,,"поскольку вы не приняли подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_forfeited_reason_P_B,Text,,"вы не приняли подарок ({[resource]}, {0} шт.) от города {[city_name]}. Кроме того,"
+PHRASE_gift_forfeited_reason_P_C,Text,,"хотя вы не приняли подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_forfeited_reason_C_A,Text,,"поскольку вы не приняли дар — {0} {[resource]} — от города {[city_name]},"
+PHRASE_gift_forfeited_reason_C_B,Text,,"вы не приняли дар — {0} {[resource]} — от города {[city_name]}. Кроме того,"
+PHRASE_gift_forfeited_reason_C_C,Text,,"хотя вы не приняли дар — {0} {[resource]} — от города {[city_name]},"
+PHRASE_gift_refused_reason_P_A,Text,,"поскольку вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_refused_reason_P_B,Text,,"вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]}. Теперь"
+PHRASE_gift_refused_reason_P_C,Text,,"хотя вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_refused_reason_C_A,Text,,"поскольку вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_refused_reason_C_B,Text,,"вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]}. Теперь"
+PHRASE_gift_refused_reason_C_C,Text,,"хотя вы отказались принять подарок ({[resource]}, {0} шт.) от города {[city_name]},"
+PHRASE_gift_no_reason_P_A,Text,,"поскольку вам не помешала бы помощь,"
+PHRASE_gift_no_reason_P_B,Text,,"щедрость фараона не знает границ, поэтому"
+PHRASE_gift_no_reason_P_C,Text,,фараон высоко ценит жертвы вашего города. В результате
+PHRASE_gift_no_reason_C_A,Text,,"поскольку вам не помешала бы помощь,"
+PHRASE_gift_no_reason_C_B,Text,,"египтяне всегда помогают друг другу, поэтому"
+PHRASE_gift_no_reason_C_C,Text,,египетский народ высоко ценит жертвы вашего города. В результате
